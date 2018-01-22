@@ -1,4 +1,4 @@
-# monster_slayer
+# Monster Slayer
 This is the first Vue.Js application which is a simple game to practice Interacting with the DOM 
 
 ## Getting Started
